@@ -1,0 +1,14 @@
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\obj\Debug\CS_4ws_lesson27_NewQuery.csproj.AssemblyReference.cache
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\obj\Debug\CS_4ws_lesson27_NewQuery.csproj.SuggestedBindingRedirects.cache
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\obj\Debug\CS_4ws_lesson27_NewQuery.Form1.resources
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\obj\Debug\CS_4ws_lesson27_NewQuery.Properties.Resources.resources
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\obj\Debug\CS_4ws_lesson27_NewQuery.csproj.GenerateResource.cache
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\obj\Debug\CS_4ws_lesson27_NewQuery.csproj.CoreCompileInputs.cache
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\bin\Debug\CS_4ws_lesson27_NewQuery.exe.config
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\bin\Debug\CS_4ws_lesson27_NewQuery.exe
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\bin\Debug\CS_4ws_lesson27_NewQuery.pdb
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\obj\Debug\CS_4ws_lesson27_NewQuery.exe
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\obj\Debug\CS_4ws_lesson27_NewQuery.pdb
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\obj\Debug\CS_4ws_lesson27_NewQuery.frm2.resources
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\obj\Debug\CS_4ws_lesson27_NewQuery.Form3.resources
+Z:\A_Works\Study\Database\CS_DataBase\CS_4ws_lesson27_NewQuery\CS_4ws_lesson27_NewQuery\obj\Debug\CS_4ws_lesson27_NewQuery.Form4.resources
